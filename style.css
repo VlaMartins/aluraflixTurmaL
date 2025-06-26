@@ -12,6 +12,10 @@ header{
 }
 
 h1{
-    color: rgb(199, 223, 77);
+    color: rgb(236, 244, 200);
     font-family: sans-serif;
+}
+
+p{
+    color: whitesmoke;
 }
