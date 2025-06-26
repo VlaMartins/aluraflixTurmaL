@@ -9,5 +9,9 @@ header{
     font-family: cursive;
     border-bottom: solid 2px rgb(7, 197, 71);
     padding: 20px; 
-   
+}
+
+h1{
+    color: beige;
+    font-family: sans-serif;
 }
