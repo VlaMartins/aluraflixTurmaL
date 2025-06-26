@@ -1,8 +1,7 @@
 body{
     color: rgb(181, 246, 181); /*cor da fonte - letra */
     background-color: rgb(1, 30, 12); /* cor do fundo */
-    /* font-family: "IBM Plex Sans", sans-serif; */
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "IBM Plex Sans", sans-serif;
     margin: 0px;
 }
 
