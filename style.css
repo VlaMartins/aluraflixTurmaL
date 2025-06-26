@@ -6,7 +6,8 @@ body{
 }
 
 header{
+    font-family: cursive;
     border-bottom: solid 2px rgb(7, 197, 71);
-    margin: 20px; 
-
+    padding: 20px; 
+   
 }
