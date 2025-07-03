@@ -38,3 +38,11 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
+
+.fundo-vermelho{
+    background-color: red;
+}
+
+.fundo-azul{
+    background-color: blue;
+}
