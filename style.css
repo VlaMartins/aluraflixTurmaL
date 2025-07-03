@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     color: rgb(181, 246, 181); /*cor da fonte - letra */
     background-color: rgb(1, 30, 12); /* cor do fundo */
@@ -19,5 +24,17 @@ h1{
 }
 
 p{
-    color: whitesmoke;
+    color: purple;
+}
+
+section{
+    background-color: rgb(87, 190, 87);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex; /* divs uma ao lado da outra */
+    justify-content: center; /*centraliza o conteudo da div*/
+}
+
+.chamada-texto{
+    margin-right: 100px;
 }
